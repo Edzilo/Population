@@ -1,0 +1,6 @@
+#include "manipulation.h"
+
+Mainpulation::Mainpulation()
+{
+
+}
